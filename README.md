@@ -1,3 +1,5 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
 ## 墨卡托投影坐标系
 
 取零子午线或自定义原点经线($L0$)与赤道交点的投影为原点，零子午线或自定义原点经线的的投影为纵坐标$Y$轴，赤道的投影为横轴坐标$X$轴，构成墨卡托平面直角坐标系
